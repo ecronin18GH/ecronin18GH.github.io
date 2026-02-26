@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Your Name</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="landing">
+
+<div class="menu">
+    <a href="paintings.html">Paintings / Drawings</a>
+    <a href="design.html">Graphic Design</a>
+    <a href="photography.html">Photography</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+</body>
+</html>
