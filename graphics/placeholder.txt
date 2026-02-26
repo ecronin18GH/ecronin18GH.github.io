@@ -1,1 +1,4 @@
-
+graphics/
+  graphics1.jpg
+  graphics3.png
+  graphics4.jpg
