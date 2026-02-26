@@ -1,12 +1,10 @@
 paintings/
-paintings1.jpg
-paintings2.jpg
-paintings3.jpg
-paintings4.jpg
-paintings5.jpg
-paintings6.jpg
-paintings7.jpg
-paintings8.jpg
-paintings9.jpg
-paintings10.jpg
-paintings11.jpg
+  paintings1.jpg
+  paintings2.jpg
+  paintings3.jpg
+  paintings4.jpg
+  paintings5.jpg
+  paintings6.jpg
+  paintings7.jpg
+  paintings8.jpg
+  paintings9.jpg
